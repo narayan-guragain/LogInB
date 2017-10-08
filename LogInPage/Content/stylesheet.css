@@ -1,0 +1,78 @@
+#navstyle {
+	width: 100%;
+	background-color: blueviolet;
+	padding: 20px;
+	margin-bottom:40px;
+}
+
+#footerstyle {
+	width: 100%;
+	background-color: blueviolet;
+	padding: 20px;
+	height:70px;
+}
+
+#copyright {
+	text-align:center;
+}
+
+#formarea {
+	padding-bottom: 30px;
+}
+
+#Button1 {
+	float: none;
+	margin: 0 auto;
+}
+#Button2 {
+	margin-left: 40px;
+}
+
+
+.row-centered {
+	text-align: center;
+	font-weight: bold;
+}
+#header {
+	padding-bottom: 40px;
+	font-weight: bold;
+}
+
+
+.col-centered {
+	display: inline-block;
+	float: none;
+	/* reset the text-align */
+	text-align: left;
+	/* inline-block space fix */
+	margin-right: -4px;
+}
+.center-block {
+	float: none !important;
+}
+.col-center {
+	float: none;
+	margin: 0 auto;
+	
+}
+.form-check {
+	padding-bottom:30px;
+}
+#CheckBoxAddMember {
+	height: 15px;
+	width: 15px;
+	padding-left:15px;
+}
+
+#addmembertext {
+	vertical-align:top;
+}
+#addmemberpaddingbottom {
+	padding-bottom:25px;
+}
+
+
+#phnumdiv {
+	padding-bottom: 25px;
+}
+
